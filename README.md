@@ -18,4 +18,4 @@
 
 邮箱地址：uqhc8@21cn.com
 
-[隐私](/privacy)
+[隐私协议](https://github.com/ce43236716/chengrenyeyue/raw/master/privacy.cmd)

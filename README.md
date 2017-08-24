@@ -2,7 +2,7 @@
 
 ## 技术支持
 
- ![image](https://github.com/chengrenyeyue/master/call_man.png)
+ ![image](https://github.com/ce43236716/chengrenyeyue/raw/master/call_man.png)
 
 ### 好点子？
 

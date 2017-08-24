@@ -2,7 +2,7 @@
 
 ## 技术支持
 
- ![image](https://github.com/chengrenyeyue/raw/master/call_man.png)
+ ![image](https://github.com/chengrenyeyue/master/call_man.png)
 
 ### 好点子？
 
@@ -18,4 +18,4 @@
 
 邮箱地址：uqhc8@21cn.com
 
-[隐私协议](/privacy)
+[隐私](/privacy)
